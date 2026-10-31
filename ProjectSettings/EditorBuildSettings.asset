@@ -11,5 +11,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SCENES/Fry flip.unity
     guid: 9b734491552422648898f4fcc90f5c25
+  - enabled: 1
+    path: Assets/SCENES/MainMenu.unity
+    guid: 2565682694f44fb438d726cbd4643730
+  - enabled: 1
+    path: Assets/SCENES/Egg Escape.unity
+    guid: 0cb9c01db844a594ba2556eda2dbcb8a
+  - enabled: 1
+    path: Assets/SCENES/Stack.unity
+    guid: 02352573f8825a344a6f745246e9417b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
